@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋, I'm Basil
+
+[![Github](https://img.shields.io/github/followers/Basil-Code?label=Follow&style=social)](https://github.com/Basil-Code)
 
 <!--
 **Basil-Code/Basil-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
