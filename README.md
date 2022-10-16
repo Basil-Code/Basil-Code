@@ -2,6 +2,13 @@
 
 [![Github](https://img.shields.io/github/followers/Basil-Code?label=Follow&style=social)](https://github.com/Basil-Code)
 
+<br/>
+<!-- Light Mode -->
+<div align="center"> 
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?count_private=true&username=Basil-Code&role=OWNER%2CCOLLABORATOR&exclude_repo=github-readme-stats&hide_border=1&line_height=28&theme=tokyonight&show_icons=true#gh-dark-mode-only" alt="Basil-Code's Github stats" />
+</div>
+
+
 <!--
 **Basil-Code/Basil-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
