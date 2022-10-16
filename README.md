@@ -5,7 +5,7 @@
 <br/>
 <!-- Light Mode -->
 <div align="center"> 
-  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?count_private=true&username=Basil-Code&role=OWNER%2CCOLLABORATOR&exclude_repo=github-readme-stats&hide_border=1&line_height=28&theme=tokyonight&show_icons=true#gh-dark-mode-only" alt="Basil-Code's Github stats" />
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Basil-Code&count_private=true&hide_border=1&line_height=28&theme=tokyonight&show_icons=true" alt="Basil-Code's Github stats" />
 </div>
 
 
