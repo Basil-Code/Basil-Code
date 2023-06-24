@@ -4,10 +4,11 @@
 
 <br/>
 <!-- Light Mode -->
+<!-- 
 <div align="center"> 
   <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Basil-Code&count_private=true&hide_border=1&line_height=28&theme=tokyonight&show_icons=true" alt="Basil-Code's Github stats" />
 </div>
-
+****
 
 <!--
 **Basil-Code/Basil-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
